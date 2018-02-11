@@ -10,17 +10,20 @@
 	font-family: Trebuchet MS, Helvetica, sans-serif;
 	text-align: center;
 	letter-spacing: 1px;
+	color:white;
 }
 
 #sign_up_div,#sign_in_div{
 	width: 50%;
 	float: left;
 	padding-top: 15%;
+	color:white;
 }
 #sign_up_form,#sign_in_form{
 	width: 50%;
     height:200px;
     margin: auto;
+    color:white;
 }
 
 
